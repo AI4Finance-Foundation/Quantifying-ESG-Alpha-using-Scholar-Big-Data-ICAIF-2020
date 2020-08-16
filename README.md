@@ -1,4 +1,4 @@
-# Quantifying ESG Alpha in Scholar Big Data An Automated Machine Learning Approach
+# Quantifying ESG Alpha in Scholar Big Data: An Automated Machine Learning Approach
 
 ESG (Environmental, social, governance) factors are widely known as the three primary factors in measuring the sustainability and societal impacts of an investment in a company or business. This repoitory proposes a quantitative approach to measuring the ESG premium in stock trading using ESG scholar data.
 
