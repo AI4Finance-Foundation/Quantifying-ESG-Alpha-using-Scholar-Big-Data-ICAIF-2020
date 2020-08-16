@@ -21,5 +21,5 @@ The alternative data we use is from the [Microsoft Academic Graph database](http
 ## Predictive Model
 
 ### Ensemble
-[1](https://github.com/chenqian0168/Quantifying-ESG-Alpha-in-Scholar-Big-Data-An-Automated-Machine-Learning-Approach/blob/master/pictures/cumulative_return.png)
+![1](https://github.com/chenqian0168/Quantifying-ESG-Alpha-in-Scholar-Big-Data-An-Automated-Machine-Learning-Approach/blob/master/pictures/cumulative_return.png)
 This repository refers to the codes for ICAIF-2020 paper.
