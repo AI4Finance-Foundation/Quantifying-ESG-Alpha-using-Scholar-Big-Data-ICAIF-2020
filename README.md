@@ -10,7 +10,7 @@ ESG (Environmental, social, governance) factors are widely known as the three pr
 The alternative data we use is from the [Microsoft Academic Graph database](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/), which is an open resource database with records of publications, including papers, journals, conferences, books etc. It provides the demographics of the publications like public date, citations, authors and affiliated institutes. It includes ESG publication records dating back to 1970s - long enough to study the relationship between ESG publications and companies' stock prices.
 
 * Applied topic model on papers and implemented semi-supervised learning to filter out ESG papers;
-* Match ESG papers with company's stock ticker if one or more authors are employed by the company;
+* Match ESG papers with companys' stock tickers if one or more authors are employed by the company;
 * Performed feature engineering on ESG scholar data, generating a scholar feature space with 48 features.
 
 ### Financial Data
