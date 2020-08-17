@@ -43,10 +43,11 @@ The alternative data we use is from the [Microsoft Academic Graph database](http
 * Financial Indicators Only: This is the portfolio built by predictive model trained using financial indicators only;
 * Scholar Alpha: This is the portfolio built by predictive model trained using ESG scholar features and financial features.
 
+Below is the rolling annualized Sharpe ratio of ESG alpha vs. Financial indicators only portfolio.
 ![rolling_sharpe](https://github.com/chenqian0168/Quantifying-ESG-Alpha-in-Scholar-Big-Data-An-Automated-Machine-Learning-Approach/blob/master/pictures/rolling_sharpe.png)
 
-
-![cummulative_return](https://github.com/chenqian0168/Quantifying-ESG-Alpha-in-Scholar-Big-Data-An-Automated-Machine-Learning-Approach/blob/master/pictures/cummulative_return.png)
+Below shows the logarithmic cumulative return of ESG scholar alpha.
+![cummulative_return](https://github.com/chenqian0168/Quantifying-ESG-Alpha-in-Scholar-Big-Data-An-Automated-Machine-Learning-Approach/blob/master/pictures/cumulative_return.png)
 
 
 
