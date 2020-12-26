@@ -22,12 +22,12 @@ The alternative data we use is from the [Microsoft Academic Graph database](http
 
 ### Ensemble
 
-* LSTM
 * Linear Regression
 * Lasso Regression
 * Ridge Regression
 * Random Forest Regression
 * Support Vector Regression
+* LSTM
 
 ### Rolling window backtesting
 
