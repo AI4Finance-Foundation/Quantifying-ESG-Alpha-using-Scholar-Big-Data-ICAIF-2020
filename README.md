@@ -49,6 +49,3 @@ Below is the rolling annualized Sharpe ratio of ESG alpha vs. Financial indicato
 Below shows the logarithmic cumulative return of ESG scholar alpha.
 ![cummulative_return](https://github.com/chenqian0168/Quantifying-ESG-Alpha-in-Scholar-Big-Data-An-Automated-Machine-Learning-Approach/blob/master/pictures/cumulative_return.png)
 
-
-
-This repository refers to the codes for ICAIF-2020 paper.
